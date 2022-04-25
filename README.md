@@ -30,11 +30,8 @@ Node.js based tool where users can use to generate Professional README for their
 
 
 ## Screenshots
-
-![](assets/VScode-readme.png)
-
-![](assets/readme.png)
-<!-- ![](assets/.png) -->
+![](./assets/readme.png)
+![](./assets/VScode-readme.png)
 
 ## Technologies Use
 <p><a href="https://nodejs.org/">Node.js</a></p>
