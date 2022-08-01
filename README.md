@@ -3,7 +3,8 @@
 ### Github: https://github.com/Tariqstanikzai/Professional-README-Generator-PRG
 
 ### Walkthrough video: 
-link will add soon...
+https://app.castify.com/view/1173be6e-0112-4071-908d-a06bf6df96d9
+
 
 ## Description
 Node.js based tool where users can use to generate Professional README for their repo projects.
@@ -30,8 +31,8 @@ Node.js based tool where users can use to generate Professional README for their
 
 
 ## Screenshots
-![](./assets/readme.png)
-![](./assets/VScode-readme.png)
+![](./assets/images/readme.png)
+![](./assets/images/readme-genereat.png)
 
 ## Technologies Use
 <p><a href="https://nodejs.org/">Node.js</a></p>
